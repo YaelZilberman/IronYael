@@ -1,0 +1,30 @@
+
+
+- Create new repository in GitHub
+
+IronYael
+
+
+- Clone repository in computer
+
+Terminal: git clone https://github.com/YaelZilberman/IronYael.git
+
+
+- Create file named about in folder. Add fun fact about you
+
+Terminal: echo Soy Bajita > about.txt
+
+
+- Add file to git
+
+Terminal: git add .
+
+
+-Commit changes
+
+Terminal: git commit -m about
+
+
+- Push changes to GitHub
+
+Terminal: git push origin main
